@@ -1,3 +1,7 @@
 # Resumes
 
-Make this a website that holds various versions of your resume with links to downloadable pdfs/word documents.
+This is a simple github pages website for my resume and coverletter.
+
+If my contact information changes, this is the best place to find the most up to date info.
+
+[View Page](https://andipanic.github.io/resume/)
